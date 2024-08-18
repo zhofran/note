@@ -1,0 +1,23 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "project latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhofran/note.git"
+  },
+  "author": "zhofran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhofran/note/issues"
+  },
+  "homepage": "https://github.com/zhofran/note#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
